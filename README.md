@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Beloved Akande
-- 👀 I’m interested in Web App development
-- 🌱 I’m currently learning PHP, LARAVEL, PYTHON
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently working with Laravel and PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me belovedakande@gmail.com
 
