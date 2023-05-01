@@ -6,7 +6,7 @@
 - 📫 How to reach me belovedakande@gmail.com
 
 <div style="display: flex; align-items:center; justify-content-center;">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F367043438375416285%2F&psig=AOvVaw0SH_FZE_YDFEmy011PvAlB&ust=1683036512652000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICo-92l1P4CFQAAAAAdAAAAABAD">
+    <img src="fcf7fd0c619bb87706533079240915f3.gif">
 </div>
 
 
