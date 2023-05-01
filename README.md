@@ -1,10 +1,11 @@
+
 - 👋 Hi, I’m Beloved Akande
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently working with Laravel and PHP
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested web and API development
+- 🌱 I like working with PHP, Laravel and Livewire
+- 💞️ I enjoy creating high-quality software solutions,  with a clean code structure
 - 📫 How to reach me belovedakande@gmail.com
 
-
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 
 
